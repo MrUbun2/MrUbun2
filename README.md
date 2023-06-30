@@ -1,5 +1,6 @@
 # hi, i'm carter
-i'm a pansexual furry, and my pronouns are he/they
+i'm a pansexual furry and my pronouns are he/they
+
 i know a few programming languages and i'm fluent in most of them
 | language | fluency score |
 | --- | --- |
